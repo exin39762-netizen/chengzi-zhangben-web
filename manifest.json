@@ -1,0 +1,16 @@
+{
+  "name": "橙子小账本",
+  "short_name": "小账本",
+  "description": "本地记账应用：预算、攒钱、日记、提醒",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0ebe2",
+  "theme_color": "#f0ebe2",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
